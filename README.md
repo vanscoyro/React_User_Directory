@@ -25,7 +25,7 @@ _______________________________________________________________
 
 ### Demo:
 
-<img src='assets/USerDirectory.gif' alt="mainPage">
+<img src='assets/UserDirectory.gif' alt="mainPage">
 
 
 * Main Page
