@@ -22,6 +22,16 @@ _______________________________________________________________
 ### Contribution Policy: 
 * n/a
 _______________________________________________________________
+
+### Demo:
+
+<img src='assets/USerDirectory.gif' alt="mainPage">
+
+
+* Main Page
+
+_______________________________________________________________
+
 ### Test Cases:
 * n/a
 _______________________________________________________________
@@ -39,6 +49,7 @@ _______________________________________________________________
 * [Installation](#installation-instructions)
 * [Main Language](#main-language-)
 * [Contribution Policy](#contribution-policy)
+* [Demo](#demo)
 * [Test Case](#test-cases)
 * [Contact Me](#contact-me)
 
